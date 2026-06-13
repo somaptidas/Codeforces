@@ -4,7 +4,7 @@ int main()
     int i,j;
     int t,n;
     scanf("%d",&t);
-    //int arr[n];
+
     if(t>=1 && t<=100000){
     while(t--){
 
